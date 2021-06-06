@@ -10,7 +10,7 @@ export const Container = styled.div`
   justify-content: center;
   flex-direction: column;
   background-image: url(${bg});
-  background-size: contain;
+  background-size: cover;
   height: 59rem;
   color: #ffff;
 `;
